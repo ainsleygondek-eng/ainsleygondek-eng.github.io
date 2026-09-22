@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ainsley Gondek — Marketing & International Business student.">
+  <title>Ainsley Gondek — Marketing & International Business</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="#top" aria-label="Ainsley Gondek home">AINSLEY GONDEK</a>
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span>Menu</span><span class="menu-icon" aria-hidden="true">+</span>
+    </button>
+    <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+      <a href="#work">Selected Work</a>
+      <a href="#experience">Experience</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-intro">
+        <p class="eyebrow">Marketing &amp; International Business</p>
+        <h1>Creative thinking.<br><em>Business perspective.</em></h1>
+        <p class="intro-copy">Marketing and International Business student at Fairfield University with a passion for leadership, teamwork, analytical thinking, and creative problem solving.</p>
+        <div class="hero-links">
+          <a class="text-link" href="#work">Explore work <span>↘</span></a>
+          <a class="text-link" href="mailto:ainsley747@gmail.com">Email Ainsley <span>↗</span></a>
+        </div>
+      </div>
+      <figure class="hero-image">
+        <div class="image-wrap">
+          <img src="profile.jpg" alt="Portrait of Ainsley Gondek">
+        </div>
+        <figcaption>Fairfield University · Class of 2028</figcaption>
+      </figure>
+    </section>
+
+    <section class="marquee" aria-label="Areas of focus">
+      <div>MARKETING <span>•</span> INTERNATIONAL BUSINESS <span>•</span> LEADERSHIP <span>•</span> DATA ANALYSIS <span>•</span> MARKETING <span>•</span> INTERNATIONAL BUSINESS</div>
+    </section>
+
+    <section id="work" class="work section">
+      <div class="section-label"><span>01</span><span>Selected Work</span></div>
+      <div class="work-header">
+        <h2>Projects that connect research, strategy &amp; communication.</h2>
+        <p>Academic work has given me hands-on experience analyzing markets, understanding persuasion, and developing strategic business plans.</p>
+      </div>
+
+      <div class="project-grid">
+        <article class="project project-large">
+          <div class="project-meta"><span>Marketing Research</span><span>Academic Project</span></div>
+          <h3>Brand Messaging<br><em>&amp; Market Trends</em></h3>
+          <p>Led a team of six in analyzing brand messaging and persuasion techniques to identify market trends and opportunities.</p>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+        <article class="project">
+          <div class="project-meta"><span>Business Plan</span><span>Academic Project</span></div>
+          <h3>Strategic Planning<br><em>&amp; Growth</em></h3>
+          <p>Led a team project focused on market analysis and strategic planning, producing a 20% projected increase in profitability for a simulated company.</p>
+          <span class="project-arrow" aria-hidden="true">↗</span>
+        </article>
+      </div>
+    </section>
+
+    <section id="experience" class="experience section dark">
+      <div class="section-label"><span>02</span><span>Experience</span></div>
+      <div class="experience-list">
+        <article class="experience-item">
+          <div class="date">2023 — 2024</div>
+          <div>
+            <h3>Shore Break Café</h3>
+            <p class="role">Customer Service · Sea Isle City, NJ</p>
+            <p>Worked the register and maintained inventory. Managed the weekly Farm Stand with an off-site team.</p>
+          </div>
+        </article>
+        <article class="experience-item">
+          <div class="date">2021 — 2022</div>
+          <div>
+            <h3>YMS Soccer</h3>
+            <p class="role">Trainer &amp; Instructor, U10 &amp; U11 Girls · Yardley, PA</p>
+            <p>Coordinated practices and technical training for 20-girl teams and assisted coaches during games.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="about" class="about section">
+      <div class="section-label"><span>03</span><span>About</span></div>
+      <div class="about-grid">
+        <h2>Building a foundation in <em>business</em>, with an eye for what comes next.</h2>
+        <div class="about-copy">
+          <p>I am an initiative-taking Marketing and International Business student seeking a summer internship where I can apply my analytical skills and collaborative spirit to a dynamic team.</p>
+          <p>My coursework includes Microeconomics, Macroeconomics, Financial Accounting, Managerial Accounting, Principles of Marketing, International Business, and Management.</p>
+          <div class="education">
+            <span>Education</span>
+            <strong>Fairfield University</strong>
+            <p>B.S. Marketing &amp; International Business · May 2028</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="activities section">
+      <div class="section-label"><span>04</span><span>Leadership &amp; Activities</span></div>
+      <div class="activity-grid">
+        <div><span>01</span><h3>Women in Business Club</h3><p>Sep 2024 — Present</p></div>
+        <div><span>02</span><h3>Women in Management Club</h3><p>Sep 2024 — Present</p></div>
+        <div><span>03</span><h3>Private Equity &amp; Venture Capital Club</h3><p>Sep 2024 — Present</p></div>
+        <div><span>04</span><h3>Saranelli Soup Kitchen</h3><p>Volunteer · Oct 2020 — Present</p></div>
+        <div><span>05</span><h3>Mike’s Seafood 5K Run for Autism</h3><p>Volunteer · Feb 2018 — Present</p></div>
+      </div>
+    </section>
+
+    <section class="skills section">
+      <div class="section-label"><span>05</span><span>Skills &amp; Interests</span></div>
+      <div class="skills-grid">
+        <div><p class="small-title">Technical</p><div class="tags"><span>Workday</span><span>Google Workspace</span><span>Microsoft 365</span><span>Data Analysis</span><span>Social Media Platforms</span></div></div>
+        <div><p class="small-title">Interests</p><p>Travel · Music · Skiing · Working Out · Running</p></div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact section">
+      <p class="eyebrow">06 / Contact</p>
+      <h2>Let's start a<br><em>conversation.</em></h2>
+      <div class="contact-links">
+        <a href="mailto:ainsley747@gmail.com">ainsley747@gmail.com <span>↗</span></a>
+        <a href="https://www.linkedin.com/in/ainsley-gondek-959a41356" target="_blank" rel="noopener noreferrer">LinkedIn <span>↗</span></a>
+        <a href="tel:+12675594099">267.559.4099 <span>↗</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>© <span id="year"></span> Ainsley Gondek</span>
+    <a href="#top">Back to top ↑</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
